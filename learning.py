@@ -150,25 +150,6 @@ for i in range(0,len(boxes)):
         character_boxes = np.array(character_boxes)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
